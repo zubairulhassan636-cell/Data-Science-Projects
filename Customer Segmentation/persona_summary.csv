@@ -1,0 +1,5 @@
+Cluster,Age,Annual_Income,Spending_Score,Purchase_Frequency_Monthly,Online_Purchase_Ratio,Loyalty_Points,Count,Female_%,Persona,Recommended_Action
+0,41.0,88510.0,17.8,6.3,0.2,110.0,292,47.9,Affluent Conservatives,"High-touch support, warranties, loyalty programs."
+1,33.1,86525.0,82.4,22.5,0.7,1848.3,295,55.9,High-Value Trendsetters,"Exclusive perks, early access, experiential marketing."
+2,25.3,26246.8,80.2,17.9,0.8,1443.8,305,59.0,Budget-Conscious Explorers,"Influencer campaigns, flash sales, buy-now-pay-later."
+3,45.4,27591.2,20.8,4.1,0.2,84.6,308,44.2,Conservative Minimizers,"Minimize spend, clear price-value, basic utility."
